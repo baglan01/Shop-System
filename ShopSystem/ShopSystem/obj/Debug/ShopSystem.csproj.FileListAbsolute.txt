@@ -1,0 +1,12 @@
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\bin\Debug\ShopSystem.exe.config
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\bin\Debug\ShopSystem.exe
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\bin\Debug\ShopSystem.pdb
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\obj\Debug\ShopSystem.csprojAssemblyReference.cache
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\obj\Debug\ShopSystem.Form1.resources
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\obj\Debug\ShopSystem.Properties.Resources.resources
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\obj\Debug\ShopSystem.csproj.GenerateResource.cache
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\obj\Debug\ShopSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\obj\Debug\ShopSystem.exe
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\obj\Debug\ShopSystem.pdb
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\obj\Debug\ShopSystem.logincs.resources
+C:\Users\Mi Notebook\source\repos\ShopSystem\ShopSystem\obj\Debug\ShopSystem.register.resources
